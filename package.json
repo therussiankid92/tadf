@@ -1,0 +1,14 @@
+{
+  "name": "tadf",
+  "version": "1.0.0",
+  "description": "This is a shared common test data library for front",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "author": "therussiankid92",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "4.1.0"
+  }
+}
